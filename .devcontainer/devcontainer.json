@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "JetBrains IDE": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
